@@ -1,0 +1,148 @@
+************************************************************
+*  PROGRAMMED BY  : Tamar Figotin
+*  LAB #14        : Functions - Rock, Paper, Scissors
+************************************************************
+
+Enter Player's Name: Andrew Daniels
+Enter Number of Rounds in Match: 3
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Andrew Daniels chooses ROCK!
+Computer chooses SCISSORS!
+Andrew Daniels WINS!!
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: s
+
+Andrew Daniels chooses SCISSORS!
+Computer chooses ROCK!
+Computer wins, better luck next time, Andrew Daniels!
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: x
+
+** INVALID INPUT - Please Enter (R, P, or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Andrew Daniels chooses PAPER!
+Computer chooses ROCK!
+Andrew Daniels WINS!!
+
+***********************************
+*********  FINAL RESULTS  *********
+***********************************
+Andrew Daniels is the WINNER, WINNER, CHICKEN DINNER!!
+Andrew Daniels won 66% of the time!
+
+
+************************************************************
+*  PROGRAMMED BY  : Tamar Figotin & Luke Leibee
+*  CLASS          : CS 1A
+*  SECTION        : TTh - 11am
+*  LAB #14        : Functions - Rock, Paper, Scissors
+************************************************************
+
+Enter Player's Name: Andrew Daniels
+Enter Number of Rounds in Match: 3
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Andrew Daniels chooses ROCK!
+Computer chooses ROCK!
+Computer wins, better luck next time, Andrew Daniels!
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Andrew Daniels chooses PAPER!
+Computer chooses PAPER!
+Computer wins, better luck next time, Andrew Daniels!
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: S
+
+Andrew Daniels chooses SCISSORS!
+Computer chooses PAPER!
+Andrew Daniels WINS!!
+
+***********************************
+*********  FINAL RESULTS  *********
+***********************************
+Andrew Daniels lost 67% of the time!
+
+
+************************************************************
+*  PROGRAMMED BY  : Tamar Figotin & Luke Leibee
+*  CLASS          : CS 1A
+*  SECTION        : TTh - 11am
+*  LAB #14        : Functions - Rock, Paper, Scissors
+************************************************************
+
+Enter Player's Name: Andrew Daniels
+Enter Number of Rounds in Match: 2
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Andrew Daniels chooses ROCK!
+Computer chooses SCISSORS!
+Andrew Daniels WINS!!
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Andrew Daniels chooses PAPER!
+Computer chooses SCISSORS!
+Computer wins, better luck next time, Andrew Daniels!
+
+***********************************
+*********  FINAL RESULTS  *********
+***********************************
+Andrew Daniels tied the computer
